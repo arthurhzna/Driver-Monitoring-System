@@ -1,1 +1,1 @@
-pip install mediapipe btw, i forget add it 
+pip install ultralytics  btw, i forget add it 
